@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @speedytech121
+- 👋 Hi, I’m Deepak
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++,unix
 - 💞️ I’m looking to collaborate on system developing
