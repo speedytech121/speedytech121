@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepak
 - 👀 I’m interested in coding
-- 🌱 I’m working on c++, python,unix os
+- 🌱 I’m working on c++, python, golang, RabbitMQ, linux/unix/RHEL, shell scripting
 - 💞️ I’m looking to collaborate on system developing
 - 📫 How to reach me +9140098363
 
