@@ -1,11 +1,8 @@
-👋 Hello!
-I’m currently exploring FastAPI and developing API-based web applications focused on PDF conversion features, such as converting JPG to PDF and more.
+Hi there! I specialize in developing robust API-based solutions and cross-platform software applications. With expertise in backend technologies like Python, Java, and frameworks such as FastAPI and Django, I focus on creating scalable systems that are both efficient and maintainable.
 
-## 👀 Areas of Interest:
-Designing and developing cross-platform software and web applications, particularly for the semiconductor industry.
+My journey involves crafting end-to-end applications, implementing microservices, and leveraging tools like Docker, OpenShift, and JFrog for deployment and CI/CD. From designing system architectures to debugging and optimizing code, I take pride in delivering solutions that go beyond expectations.
 
-## 🌱 Current Focus:
-Writing and enhancing code in Python and Java to build efficient, scalable systems.
+I’m passionate about collaborating on projects that involve innovative technologies, particularly in API development, web applications, and system engineering. Feel free to explore my projects and reach out to discuss ideas or potential collaborations.
 
 ## 💻 Technical Proficiency:
 | Languages        | Tools                              | Frameworks        |
