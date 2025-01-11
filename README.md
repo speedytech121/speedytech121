@@ -1,10 +1,19 @@
-- 👋 Hi, I’m Deepak
-- 👀 I’m interested in coding
-- 🌱 I’m working on c++, python, golang, RabbitMQ, linux/unix/RHEL, shell scripting
-- 💞️ I’m looking to collaborate on system developing
-- 📫 How to reach me +91 9140098363
+👋 Hello!
+I’m currently exploring FastAPI and developing API-based web applications focused on PDF conversion features, such as converting JPG to PDF and more.
 
-<!---
-speedytech121/speedytech121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Areas of Interest:
+Designing and developing cross-platform software and web applications, particularly for the semiconductor industry.
+
+🌱 Current Focus:
+Writing and enhancing code in Python and Java to build efficient, scalable systems.
+
+💻 Technical Proficiency:
+
+Programming Languages: Python, Java, Golang, C++
+Frameworks: Django, FastAPI
+Tools: Docker, OpenShift, JFrog
+💞️ Collaboration Interests:
+Open to collaborating on system development projects and innovative solutions.
+
+📫 Contact Information:
+Reach me at +91 9140098363
