@@ -9,12 +9,12 @@ Writing and enhancing code in Python and Java to build efficient, scalable syste
 
 **💻 Technical Proficiency:**
 
-Programming Languages: Python, Java, Golang, C++
-Frameworks: Django, FastAPI
-Tools: Docker, OpenShift, JFrog
+Programming Languages: _Python, Java, Golang, C++_
+Frameworks: _Django, FastAPI_
+Tools: _Docker, OpenShift, JFrog_
 
 **💞️ Collaboration Interests:**
 Open to collaborating on system development projects and innovative solutions.
 
 **📫 Contact Information:**
-Reach me at +91 9140098363
+Reach me at **+91 9140098363**
