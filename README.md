@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m working on c++, python, golang, RabbitMQ, linux/unix/RHEL, shell scripting
 - 💞️ I’m looking to collaborate on system developing
-- 📫 How to reach me +9140098363
+- 📫 How to reach me +91 9140098363
 
 <!---
 speedytech121/speedytech121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
