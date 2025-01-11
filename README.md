@@ -5,7 +5,7 @@ My journey involves crafting end-to-end applications, implementing microservices
 
 I’m passionate about collaborating on projects that involve innovative technologies, particularly in API development, web applications, and system engineering. Feel free to explore my projects and reach out to discuss ideas or potential collaborations.
 
-**Find Me on :** [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-gupta-95583b167/)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-gupta-95583b167/)
 
 
 
